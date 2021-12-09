@@ -1,0 +1,5 @@
+- 👋 Me llamo Juan Pablo, pero si es de su preferencia diganme por mi nombre de usuario no importa
+- 👀 Quisiera trabajar en equipo con demas programadores
+- 🌱 Actualmente estoy aprendiendo JavaScript(Librerias) y en parte otros lenguajes como C#, C++ (en estos dos ultimos no me eh adentrado tanto)
+- 💞️ Quisiera colaborar en cualquier cosa que comprenda.
+- 📫 Me pueden contactar por correo electronico (reprogrammer90@gmail.com).
